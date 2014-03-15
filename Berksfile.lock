@@ -4,7 +4,10 @@
       "path": "."
     },
     "yum": {
-      "locked_version": "2.4.0"
+      "locked_version": "2.4.4"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.4"
     }
   }
 }
